@@ -1,0 +1,37 @@
+Op Sword EpicDragon adds a bunch of different types of swords with different strengths
+Almost everything is crafted at the ancient manipulator for luminite bars
+Some items give a effect
+
+Changelog:
+
+Release 0.1 Added Op sword
+Update 0.2 Op sword now has multiple purposes
+Update 0.3 Op sword gets a projectile
+Update 0.4 Added Healing sword
+Update 0.5 Restores mana
+Update 0.6 Added Breaker sword
+Update 0.7 Increased Breaker sword tool range
+Update 0.8 Fixed lag with Breaker sword
+Update 0.9 Made crafting recipe
+Update 1.0 Made Healing sword give Lifeforce effect
+Update 1.1 Made Breaker sword give Spelunker effect
+Update 1.2 Changed Op sword's projectile
+Update 1.3 Removed excess code
+Update 1.4 Added weak versions of the Op sword
+Update 1.5 Added Bomber sword
+Update 1.6 Added Rocket sword
+Update 1.7 Added Bee sword
+Update 1.8 Added Bow sword
+Update 1.9 Added Weak and Ok versions of all sword
+Update 2.0 Retextured some swords
+Update 2.1 Resized some textures
+Update 2.2 Added 3 types of Dragon swords
+Update 2.3 Changed the projectile for Bow sword
+Update 2.4 Added 3 types of Gun swords
+Update 2.5 Added 3 types of Water swords
+Update 2.6 Added 3 types of Rainbow swords
+Update 2.7 Added God Sword
+Update 2.8 Removed extra projectile from Rainbow sword
+Update 2.9 Added Demonetization 
+Update 3.0 Added Monetization and Money
+Update 3.1 Fixed max stack for Money.

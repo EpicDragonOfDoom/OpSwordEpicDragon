@@ -1,0 +1,3 @@
+displayName = Op Sword EpicDragon
+author = EpicDragon
+version = 3.1
